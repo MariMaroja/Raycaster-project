@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/maril/Desktop/raycaster-project/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\RaycasterProject.dir\\src\\main.cpp.obj -c C:\\Users\\maril\\Desktop\\raycaster-project\\src\\main.cpp",
+  "file": "C:/Users/maril/Desktop/raycaster-project/src/main.cpp",
+  "output": "C:/Users/maril/Desktop/raycaster-project/build/CMakeFiles/RaycasterProject.dir/src/main.cpp.obj"
+}
+]
